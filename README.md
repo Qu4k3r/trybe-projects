@@ -10,4 +10,5 @@ The program has more than **1,500 hours** of classroom and online classes and co
 
 #### HTML & CSS (End of Block-03)
 - *Lessons Learned*
-
+#### JavaScript - Introduction (End of Block-04)
+- *Playground Functionss*
