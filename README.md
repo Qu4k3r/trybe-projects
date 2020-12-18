@@ -12,3 +12,11 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - *Lessons Learned*
 #### JavaScript - Introduction (End of Block-04)
 - *Playground Functionss*
+#### JavaScript: DOM, Events & Web Storage (End of Block-05)
+- *Pixels Art*
+- *Todo List*
+
+   **Bonus Projects**  
+   - *Meme Generator*  
+   - *Color Guess*  
+   - *Mistery Letter*  
